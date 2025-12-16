@@ -1,0 +1,15 @@
+# requirements.txt
+# Core data handling and numerical libraries
+pandas
+numpy
+
+# Visualization libraries used in the notebook and Streamlit app
+matplotlib
+seaborn
+plotly
+
+# Machine Learning and Statistical tools
+scikit-learn
+
+# Deployment framework
+streamlit
