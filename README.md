@@ -1,5 +1,11 @@
 # ⚕️ Diabetes Risk Prediction using Logistic Regression
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetiesprediction-dcpsdbg4ztpjmiqq76zchx.streamlit.app/)
+
+This project demonstrates a full-stack Machine Learning pipeline...
+
+# ⚕️ Diabetes Risk Prediction using Logistic Regression
+
 This project demonstrates a full-stack Machine Learning pipeline, from Exploratory Data Analysis (EDA) and model training in a Jupyter Notebook to a professional, interactive web deployment using Streamlit. The goal is to predict the risk of diabetes based on diagnostic measurements from the Pima Indians Diabetes Dataset.
 
 ## 🎯 Project Goal
